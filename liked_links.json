@@ -1,14 +1,24 @@
 {
     "soundCloudLinks": [
-        "https://soundcloud.com/blossomvibes1",
-        "https://soundcloud.com/luvvdecembxrss",
-        "https://soundcloud.com/mooshrum",
-        "https://soundcloud.com/dylan-401502726",
-        "https://soundcloud.com/djmarcoast",
-        "https://soundcloud.com/toemara",
-        "https://soundcloud.com/alexcarnavalli",
-        "https://soundcloud.com/feed",
-        "https://soundcloud.com/henrylink8",
-        "https://soundcloud.com/user-467201529"
+        {
+            "url": "https://soundcloud.com/blossomvibes1",
+            "browser": "Brave"
+        },
+        {
+            "url": "https://soundcloud.com/luvvdecembxrss",
+            "browser": "Chrome2"
+        },
+        {
+            "url": "https://soundcloud.com/mooshrum",
+            "browser": "Brave"
+        },
+        {
+            "url": "https://soundcloud.com/dylan-401502726",
+            "browser": "Brave"
+        },
+        {
+            "url": "https://soundcloud.com/djmarcoast",
+            "browser": "Chrome2"
+        }
     ]
 }
