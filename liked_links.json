@@ -1,24 +1,60 @@
 {
     "soundCloudLinks": [
         {
-            "browser": "Brave",
-            "url": "https://soundcloud.com/mooshrum"
+            "url": "https://soundcloud.com/tone-orbeat",
+            "browser": "Chrome2"
+        },
+        {
+            "url": "https://soundcloud.com/blossomvibes1",
+            "browser": "Chrome2"
+        },
+        {
+            "url": "https://soundcloud.com/sxundfly",
+            "browser": "Chrome2"
         },
         {
             "url": "https://soundcloud.com/dylan-401502726",
             "browser": "Brave"
         },
         {
-            "browser": "Chrome2",
-            "url": "https://soundcloud.com/djmarcoast"
+            "url": "https://soundcloud.com/temba-816074863",
+            "browser": "Chrome2"
         },
         {
-            "browser": "Chrome2",
-            "url": "https://soundcloud.com/luvvdecembxrss"
+            "url": "https://soundcloud.com/djmarcoast",
+            "browser": "Chrome2"
         },
         {
-            "browser": "Brave",
-            "url": "https://soundcloud.com/blossomvibes1"
+            "url": "https://soundcloud.com/luvvdecembxrss",
+            "browser": "Chrome2"
+        },
+        {
+            "url": "https://soundcloud.com/ataraxxprod",
+            "browser": "Chrome2"
+        },
+        {
+            "url": "https://soundcloud.com/feed",
+            "browser": "Chrome2"
+        },
+        {
+            "url": "https://soundcloud.com/im-jxded",
+            "browser": "Chrome2"
+        },
+        {
+            "url": "https://soundcloud.com/mooshrum",
+            "browser": "Brave"
+        },
+        {
+            "url": "https://soundcloud.com/blossomvibes1",
+            "browser": "Brave"
+        },
+        {
+            "url": "https://soundcloud.com/bantumuntu",
+            "browser": "Chrome2"
+        },
+        {
+            "url": "https://soundcloud.com/kentakimusic",
+            "browser": "Chrome2"
         }
     ]
 }
