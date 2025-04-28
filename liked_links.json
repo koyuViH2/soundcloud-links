@@ -1565,6 +1565,10 @@
       "browser": "Chrome2"
     },
     {
+      "url": "https://soundcloud.com/emocomputer",
+      "browser": "Chrome3"
+    },
+    {
       "url": "https://soundcloud.com/empty_vase",
       "browser": "Customer"
     },
