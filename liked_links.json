@@ -4245,6 +4245,10 @@
       "browser": "Chrome3"
     },
     {
+      "url": "https://soundcloud.com/locl",
+      "browser": "Unknown"
+    },
+    {
       "url": "https://soundcloud.com/lofi_girl",
       "browser": "Brave"
     },
