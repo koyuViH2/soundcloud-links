@@ -7433,10 +7433,6 @@
       "browser": "Chrome2"
     },
     {
-      "url": "https://soundcloud.com/sleepthinkmusic",
-      "browser": "Brave"
-    },
-    {
       "url": "https://soundcloud.com/sleepy-774651060",
       "browser": "Chrome3"
     },
@@ -9618,6 +9614,10 @@
     },
     {
       "url": "https://soundcloud.com/zackmester",
+      "browser": "Brave"
+    },
+    {
+      "url": "https://soundcloud.com/zane-alexander-999856301",
       "browser": "Brave"
     },
     {
